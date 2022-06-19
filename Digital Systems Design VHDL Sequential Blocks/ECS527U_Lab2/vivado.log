@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed Feb 19 19:09:44 2020
+# Process ID: 4788
+# Current directory: C:/Users/Nader/Downloads/ECS527U_Lab2/ECS527U_Lab2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13740 C:\Users\Nader\Downloads\ECS527U_Lab2\ECS527U_Lab2\ECS527U_Lab2.xpr
+# Log file: C:/Users/Nader/Downloads/ECS527U_Lab2/ECS527U_Lab2/vivado.log
+# Journal file: C:/Users/Nader/Downloads/ECS527U_Lab2/ECS527U_Lab2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Feb 19 19:11:23 2020...
